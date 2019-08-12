@@ -1,0 +1,10 @@
+
+person:
+  firstName: hello
+  middle-name: world
+  last_name: java
+  birth: 2017/12/12
+  maps: {k1: v1,k2: 12}
+  lists:
+    - lisi
+    - zhaoliu

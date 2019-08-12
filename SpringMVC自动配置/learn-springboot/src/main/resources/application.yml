@@ -1,0 +1,5 @@
+
+myinterceptor:
+  allowUrl:
+    - /**/index/**
+    - /**/test/**
